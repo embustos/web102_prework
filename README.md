@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<link src="https://www.loom.com/share/c58b8515ab3d41f69073e83ec7fe7ec3" title="Video Walkthrough">
+[Video Walkthrough](https://www.loom.com/share/c58b8515ab3d41f69073e83ec7fe7ec3)
 
 * Video was created with [Loom](https://www.loom.com)
 
